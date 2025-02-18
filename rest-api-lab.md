@@ -379,7 +379,8 @@ npm run dev
    - คลิกปุ่ม "Save" ที่มุมขวาบน
      
   ### บันทึกผลการทดลอง
-  ![แทรกรูปการตั้งค่า Postman](![image](https://github.com/user-attachments/assets/66352b62-9836-48b3-9a03-9b6dc2cff2c5)
+  ![![image](https://github.com/user-attachments/assets/36216973-e485-45e3-88b5-7ce9185e2d92)
+](![image](https://github.com/user-attachments/assets/66352b62-9836-48b3-9a03-9b6dc2cff2c5)
 )
 
 1. การทดสอบ Request:
